@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hey there! I'm a Computer Science student at Caucasus University with a knack for hackathons and a passion for all things tech. With hands-on experience in IT operations, I've delved into the dynamic world of technology, constantly fueled by the desire to learn more. Currently, my focus is on mastering DevOps, blending my skills in development and operations for seamless and efficient software delivery. Let's code, innovate, and build the future together! 🚀 #TechEnthusiast #DevOpsJourney<br><br><br><br><br>
+👋 Hey there! I'm a Computer Science student at Caucasus University with a knack for hackathons and a passion for all things tech. With hands-on experience in IT operations, I've delved into the dynamic world of technology, constantly fueled by the desire to learn more. Currently, my focus is on mastering DevOps, blending my skills in development and operations for seamless and efficient software delivery. Let's code, innovate, and build the future together! 🚀 #TechEnthusiast #DevOpsJourney
+
 
 
 ## 🌐 Socials:
